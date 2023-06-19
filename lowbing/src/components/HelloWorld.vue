@@ -6,7 +6,7 @@
         <input
           type="text"
           v-model="aql_inputText"
-          placeholder="Enter your query in plain English, and press submit"
+          placeholder="Enter your query in plain English or Chinese, and press submit"
           required
         />
         <button type="submit" :disabled="aql_loading">Submit</button>

@@ -12,6 +12,7 @@ cd front-end
 npm install
 npm run dev
 ```
+The website can be access on http://localhost:5173/
 
 
 - Install server dependencies.

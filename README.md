@@ -4,6 +4,16 @@ This repository contains a Python-Flask server that communicates with Vue.js fro
 
 ## Getting Started
 
+
+- Install client dependencies.
+
+```
+cd front-end
+npm install
+npm run dev
+```
+
+
 - Install server dependencies.
 
 ```
@@ -13,15 +23,6 @@ python3 -m flask run --host=0.0.0.0 --port=5174
 
 ```
 
-- Install client dependencies.
-
-```
-cd lowbing
-npm install
-npm run dev
-```
-
-The client will start and can be accessed at http://127.0.0.1:5173/.
 
 ## Demo
 

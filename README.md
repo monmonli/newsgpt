@@ -9,7 +9,7 @@ This repository contains a Python-Flask server that communicates with Vue.js fro
 ```
 cd api
 pip3 install -r requirements.txt
-python3 -m flask run --host=0.0.0.0 --port=5137
+python3 -m flask run --host=0.0.0.0 --port=5174
 
 ```
 
@@ -17,6 +17,7 @@ python3 -m flask run --host=0.0.0.0 --port=5137
 
 ```
 cd lowbing
+npm install
 npm run dev
 ```
 

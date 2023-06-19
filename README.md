@@ -4,7 +4,10 @@ This repository contains a Python-Flask server that communicates with Vue.js fro
 
 ## Getting Started
 
-
+- Fill in your OpenAI API in api/config.yml
+```
+OPENAI_API_KEY: ""
+```
 - Install client dependencies.
 
 ```

@@ -42,7 +42,7 @@ export default {
       news_apiResponse: null,
       summary_apiResponse: null,
       summary_loading: false,
-      api_url: `http://${window.location.hostname}:5001/api`
+      api_url: `http://127.0.0.1:5173/api`
     }
   },
   methods: {
